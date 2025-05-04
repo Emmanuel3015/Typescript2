@@ -1,5 +1,6 @@
 // Step 1: Import React and Component with TypeScript types
-import React, { Component } from "react";
+
+import { Component } from "react";
 
 // Step 2: Define interfaces for props and state
 interface CounterProps {} // No props used in this component
